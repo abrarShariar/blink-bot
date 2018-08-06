@@ -1,0 +1,26 @@
+{
+  "name": "email-create-bot",
+  "version": "1.0.0",
+  "description": "* install npm and node on linux",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrarShariar/email-create-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrarShariar/email-create-bot/issues"
+  },
+  "homepage": "https://github.com/abrarShariar/email-create-bot#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "puppeteer": "^1.6.2"
+  }
+}
